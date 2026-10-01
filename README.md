@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Prasanth-bug/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prasanth-bug/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Prasanth-bug/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Prasanth-bug/LeetCode/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prasanth-bug/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Prasanth-bug/LeetCode/tree/master/0070-climbing-stairs) |
 ## Simulation
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Prasanth-bug/LeetCode/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prasanth-bug/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
