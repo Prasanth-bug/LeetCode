@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Prasanth-bug/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Prasanth-bug/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Prasanth-bug/LeetCode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -51,8 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prasanth-bug/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Prasanth-bug/LeetCode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Prasanth-bug/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Prasanth-bug/LeetCode/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Prasanth-bug/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
