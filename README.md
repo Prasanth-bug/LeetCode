@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prasanth-bug/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Prasanth-bug/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Prasanth-bug/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Prasanth-bug/LeetCode/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Prasanth-bug/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Prasanth-bug/LeetCode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Prasanth-bug/LeetCode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Prasanth-bug/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prasanth-bug/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Prasanth-bug/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0415-add-strings](https://github.com/Prasanth-bug/LeetCode/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
