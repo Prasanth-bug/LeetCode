@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Prasanth-bug/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Prasanth-bug/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Prasanth-bug/LeetCode/tree/master/0415-add-strings) |
+| [1025-divisor-game](https://github.com/Prasanth-bug/LeetCode/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prasanth-bug/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prasanth-bug/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Prasanth-bug/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [1025-divisor-game](https://github.com/Prasanth-bug/LeetCode/tree/master/1025-divisor-game) |
 ## Simulation
 |  |
 | ------- |
@@ -170,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prasanth-bug/LeetCode/tree/master/0020-valid-parentheses) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Prasanth-bug/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Prasanth-bug/LeetCode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Prasanth-bug/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
