@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prasanth-bug/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Prasanth-bug/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0415-add-strings](https://github.com/Prasanth-bug/LeetCode/tree/master/0415-add-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/Prasanth-bug/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prasanth-bug/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Prasanth-bug/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prasanth-bug/LeetCode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Prasanth-bug/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Brainteaser
 |  |
 | ------- |
