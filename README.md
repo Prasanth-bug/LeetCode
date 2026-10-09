@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Prasanth-bug/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Prasanth-bug/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Prasanth-bug/LeetCode/tree/master/0415-add-strings) |
+| [0728-self-dividing-numbers](https://github.com/Prasanth-bug/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Prasanth-bug/LeetCode/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
