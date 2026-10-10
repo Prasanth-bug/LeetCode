@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prasanth-bug/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prasanth-bug/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Prasanth-bug/LeetCode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Prasanth-bug/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prasanth-bug/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prasanth-bug/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prasanth-bug/LeetCode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Prasanth-bug/LeetCode/tree/master/0414-third-maximum-number) |
 ## Quicksort
 |  |
 | ------- |
