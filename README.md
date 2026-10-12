@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Prasanth-bug/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Prasanth-bug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Prasanth-bug/LeetCode/tree/master/0414-third-maximum-number) |
+| [0598-range-addition-ii](https://github.com/Prasanth-bug/LeetCode/tree/master/0598-range-addition-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Prasanth-bug/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Prasanth-bug/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Prasanth-bug/LeetCode/tree/master/0415-add-strings) |
+| [0598-range-addition-ii](https://github.com/Prasanth-bug/LeetCode/tree/master/0598-range-addition-ii) |
 | [0728-self-dividing-numbers](https://github.com/Prasanth-bug/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/Prasanth-bug/LeetCode/tree/master/1025-divisor-game) |
 ## Matrix
