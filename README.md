@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prasanth-bug/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Prasanth-bug/LeetCode/tree/master/0414-third-maximum-number) |
 | [0598-range-addition-ii](https://github.com/Prasanth-bug/LeetCode/tree/master/0598-range-addition-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prasanth-bug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Prasanth-bug/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Prasanth-bug/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Prasanth-bug/LeetCode/tree/master/0217-contains-duplicate) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prasanth-bug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prasanth-bug/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Prasanth-bug/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prasanth-bug/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prasanth-bug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Prasanth-bug/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
